@@ -5,7 +5,6 @@ Wyświetlenie statusu kontenerów, stanu ich zdrowia (healthcheck) oraz przekier
 Wyświetlenie domyślnej strony startowej w celu potwierdzenia poprawnej integracji serwera Nginx z procesorem PHP-FPM (dynamiczny odczyt wersji oprogramowania bezpośrednio z kontenerów). 
 ![](Zrzut%20ekranu%202026-06-01%20192738.png)
 Wyświetlenie graficznego interfejsu panelu phpMyAdmin w celu uwierzytelnienia administratora (`root`) przed uzyskaniem dostępu do bazy danych MySQL. 
-
-
+![](Zrzut%20ekranu%202026-06-01%20192820.png)
 Pomyślne zalogowanie do serwera MySQL i zainicjalizowanie bazy danych o nazwie `testowa_baza` (widocznej na liście po lewej stronie), co ostatecznie potwierdza poprawną integrację wolumenów danych. 
-
+![](Zrzut%20ekranu%202026-06-01%20192905.png)
